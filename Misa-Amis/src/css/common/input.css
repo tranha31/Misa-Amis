@@ -1,0 +1,49 @@
+.container-input{
+    height: 53px;
+    display: flex;
+    flex-direction: column;
+}
+.w1-5{
+    width: 25% !important;
+}
+.w2-5{
+    width: 40% !important;
+}
+.w3-5{
+    width: 60% !important;
+}
+.w-full{
+    width: 100% !important;
+}
+.p-r-6{
+    margin-right: 6px;
+}
+.container-input .title{
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+.container-input .title .required{
+    color: #ff0000;
+}
+
+.container-input .input-content{
+    height: 32px;
+    position: relative;
+    padding: 6px 10px;
+    border-radius: 2px;
+    border: 1px solid #babec5;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.container-input .input-content:focus{
+    border-color: #2ca01c ;
+}
+
+.container-input .input-content.error{
+    border-color: #FF4747 !important;
+}
+.p-6{
+    padding-right: 6px;
+}

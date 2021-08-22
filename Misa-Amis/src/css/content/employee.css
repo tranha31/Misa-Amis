@@ -1,0 +1,143 @@
+.content-area{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.content-area .title-content{
+    padding: 20px 16px 20px 0;
+    position: absolute;
+    top: 0;
+    z-index: 90;
+    align-items: center;
+    width: calc(100% - 10px);
+    background: #f8f8f8;
+    display: flex;
+   
+}
+
+.content-area .title-content .title{
+    font-size: 24px;
+    font-weight: 700;
+    color: #111111;
+    flex: 5;
+}
+
+.content-area .title-content .add-new{
+    padding: 8px;
+    background-color: #27a51b;
+    border-radius: 4px;
+    outline: none;
+    color: #ffffff;
+    cursor: pointer;
+}
+.content-area .title-content .add-new:hover{
+    background-color: #35bf22;
+}
+.content-area .layout-content{
+    padding: 74px 16px 0 0;
+    flex: 1;
+    min-height: 0;
+    overflow: auto;
+    scroll-behavior: smooth;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: calc(100vw - 198px);
+    
+}
+.content-area .layout-content-mini{
+    width: calc(100vw - 72px) !important;
+    
+}
+
+.layout-content .top-content{
+    background-color: #ffffff;
+    padding: 16px;
+    left: 0;
+    position: sticky !important;
+    z-index: 90;
+    top: 0;
+    
+}
+.layout-content .top-content .grid-button{
+    display: flex;
+    flex: 1;
+}
+.layout-content .top-content .top-button{
+    display: flex;
+    align-items: center;
+}
+
+.top-content .top-button .delete-more{
+    height: 36px;
+    border: 2px solid #e4e4e5;
+    border-radius: 30px;
+    color: #afafaf;
+    background: transparent;
+    align-items: center;
+    display: flex;
+    padding: 0px 16px;
+    cursor: pointer;
+   
+}
+.top-content .top-button  .delete-more:hover{
+    color: #ffffff;
+    background-color: #393a3d;
+}
+
+.top-content .top-button .filter{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    
+}
+.top-button .filter .content-filter{
+    font-size: 13px;
+    height: 32px;
+    color: inherit;
+    position: relative;
+    padding: 6px 10px;
+    border-radius: 2px;
+    border: 1px solid #babec5;
+    box-sizing: border-box;
+    width: 300px;
+   
+}
+
+.top-button .filter .search-icon{
+    background-position: -992px -360px;
+    cursor: unset;
+    position: absolute;
+    left: auto;
+    right: 5px;
+    padding-left: 3px;
+    margin-right: 4px;
+}
+
+.content-filter:focus{
+    border-color: #2ca01c !important;
+}
+
+.top-content .top-button .refresh{
+    height: 32px;
+    padding: 0 6px 0 16px;
+    display: flex;
+    align-items: center;
+}
+.refresh .refresh-icon{
+    background-position: -423px -201px;
+}
+.refresh .refresh-icon:hover{
+    background-position: -1097px -88px;
+}
+
+.layout-content .grid{
+    height: auto;
+}
+.layout-content .grid .grid-view{
+    min-width: 100% ;
+}

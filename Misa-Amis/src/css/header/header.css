@@ -1,0 +1,68 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 48px;
+    background-color: #ffffff;
+}
+.header .resize-menu{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-position: -843px -30px;
+}
+
+.header .company{
+    padding-left: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    font-weight: 600;
+    max-width: 600px;
+    text-overflow: ellipsis;
+    transition: all .2s ease;
+    font-size: 14px;
+    color: #111111;
+}
+
+.header .object-work{
+    background-position: -80px -360px;
+    cursor: pointer;
+    transform: rotate(90deg);
+    margin-left: 10px;
+}
+.header .header-icon{
+    flex: 6;
+}
+.header .account{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding-right: 27px;
+}
+.header .account .bell{
+    background-position: -788px -30px;
+    
+}
+
+.header .account .account-avatar{
+    background-position: -352px -894px;
+    border-radius: 50%;
+    margin-left: 16px;
+    margin-right: 6px;
+}
+
+.header .account .account-name{
+    font-size: 14px;
+    color: #111111;
+    font-weight: 600;
+    white-space: nowrap;
+    max-width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 8px;
+}
+.header .account .account-option{
+    background-position: -1076px -32px;
+}
+
+

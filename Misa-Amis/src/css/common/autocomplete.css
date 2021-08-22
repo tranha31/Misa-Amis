@@ -1,0 +1,32 @@
+.v-autocomplete
+  .v-autocomplete-input-group
+    .v-autocomplete-input{
+        font-size: 13px;
+        box-shadow: none;
+        border: none;
+        outline: none;
+        background-color: #ffffff;
+        padding: 6px 32px 6px 10px;
+        width: 100%;
+        border-radius: 2px;
+        height: 31px;
+    }
+    .v-autocomplete-list{
+        max-height: 100px;
+        width: 100%;
+        border: 1px solid #babec5;
+        overflow-y: auto;
+        margin-top: 2px;
+        border-radius: 2px;
+        z-index: 5;
+    }
+    .v-autocomplete-list-item{
+        cursor: pointer;
+        background-color: #ffffff;
+    }
+    .v-autocomplete-item-active{
+        color: #2ca01c !important;
+        background-color: #ebedf0 !important;
+    }
+    
+    

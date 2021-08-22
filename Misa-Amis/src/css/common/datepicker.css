@@ -1,0 +1,24 @@
+.mx-datepicker-main{
+    z-index: 10000;
+}
+
+.mx-input{
+    height: 32px;
+    padding: 6px 10px;
+    border-radius: 2px !important;
+    box-shadow: none !important;
+    border: 1px solid #babec5;
+    font-size: 12px;
+    font-family: notosans-italic;
+    color: #000000;
+}
+.mx-input.error{
+    border-color: #FF4747 !important;
+}
+.mx-input:focus{
+    border-color: #2ca01c !important;
+}
+
+.mx-input:hover{
+    border-color: #babec5 ;
+}
