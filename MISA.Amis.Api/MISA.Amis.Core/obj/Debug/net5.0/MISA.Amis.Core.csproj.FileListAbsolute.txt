@@ -1,0 +1,14 @@
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.deps.json
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.dll
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\ref\MISA.Amis.Core.dll
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.pdb
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.AssemblyReference.cache
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.Properties.Resources.resources
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.GenerateResource.cache
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.AssemblyInfoInputs.cache
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.AssemblyInfo.cs
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.CoreCompileInputs.cache
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.dll
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\ref\MISA.Amis.Core.dll
+C:\Users\TaHa\source\repos\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.pdb
